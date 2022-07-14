@@ -8,8 +8,6 @@ This big data is going to require new techniques to process; Apache Spark is com
 ## Analysis
 From these [Amazon Reviews](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt), the video games file was used
 
-### Extraction
-
 ### Results
 Originally it was hypothesized Vine program participants would appear sympathetic towards the companies and would in turn cast positive reviews
 
